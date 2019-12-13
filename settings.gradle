@@ -1,0 +1,2 @@
+include ':app',  ':smileyrating'
+rootProject.name='Student App'
